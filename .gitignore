@@ -1,10 +1,10 @@
-# ----------------------
-# R-specific files
-# ----------------------
+# macOS system files
+.DS_Store
+
+# R session history
 .Rhistory
+.RData
 .Rproj.user/
-*.RData
-*.RDS
 
 # ----------------------
 # Large data folders (ignore all raster and CSV files)
