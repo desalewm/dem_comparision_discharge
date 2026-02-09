@@ -10,3 +10,8 @@ This work was funded by the Mobilitas+ program (grant no. MOBJD610 and MOBERC34)
 
 
 ![Discharge map](discharge_eth.png)
+
+
+Python scripts are available on project's github page: https://github.com/LandscapeGeoinformatics/dem_comparison
+
+The full paper can be accessed at: https://doi.org/10.1016/j.scitotenv.2023.164627
